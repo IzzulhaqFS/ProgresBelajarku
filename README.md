@@ -15,3 +15,9 @@ Memulai Pemrograman dengan Kotlin. (Progres 100%)
 * Pengenalan Coroutines.
 * Exam kelas Kotlin.
 * Submit Project kelas Kotlin.
+
+**8 Februari 2022**  
+Belajar Dasar Git dengan GitHub. (Progres 53%)
+* Mengenal Git dan GitHub.
+* Mempelajari dasar-dasar Git.
+* Studi Kasus "Pengalaman Belajar".
